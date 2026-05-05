@@ -6,7 +6,6 @@ console.log(str1+str2)
 str1=str1.replace('Java','და')
 str2=str2.replace('Script','იყო')
 
-  console.log(str2.replace('Script','იყო'))
   let txt='იყო'+' '+str1+' '+'არა'+' '+str2+' '+'რა';
   console.log(txt)
   //დავალება 2.3
